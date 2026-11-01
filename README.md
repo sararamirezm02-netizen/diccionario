@@ -1,4 +1,5 @@
 # diccionario
+CODIGO
 https://colab.research.google.com/drive/1Bbdr0E_nCNraqLkKe-9ZuLhPSQQ-D4xj
 ## Ejercicio 1 (Directorio de contactos):
 Funciona como una agenda telefónica digital donde puedes guardar los números de tus contactos y te permite buscar a alguien por su nombre sin miedo a que el programa falle si el contacto no existe, agregar personas nuevas, actualizar sus números y ver toda la lista ordenada en pantalla.
